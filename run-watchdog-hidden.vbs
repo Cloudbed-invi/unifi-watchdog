@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\UniFi\unifi-watchdog.bat", 0, False
